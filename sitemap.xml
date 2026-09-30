@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace YOUR-DOMAIN.com with your real website address -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://YOUR-DOMAIN.com/</loc></url>
+  <url><loc>https://YOUR-DOMAIN.com/about.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.com/clients.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.com/contact.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.com/estimate.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.com/service-fountain.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.com/service-indoor-plants.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.com/service-irrigation.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.com/service-landscape-design.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.com/service-maintenance.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.com/service-rock-garden.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.com/service-terrace.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.com/service-vegetable-garden.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.com/service-vertical-garden.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.com/service-waterbody.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.com/services.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.com/tip-indoor-plants.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.com/tip-lawn-watering.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.com/tip-terrace-garden.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.com/tips.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.com/works.html</loc></url>
+</urlset>
